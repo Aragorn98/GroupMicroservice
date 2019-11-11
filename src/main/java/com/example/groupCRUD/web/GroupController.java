@@ -14,7 +14,7 @@ import javax.validation.Valid;
 //tag::baseClass[]
 
 @RestController
-@RequestMapping("/group")
+//@RequestMapping("/group")
 public class GroupController {
 
     private GroupRepository groupRepository;
